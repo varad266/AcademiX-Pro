@@ -64,9 +64,10 @@ State Preservation: Implemented context managers to preserve user selections (Ac
 
 <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/19b5b75e-6343-4af6-b7c2-d2ea6ccb74e6" />
 
-<img width="1918" height="1023" alt="image" src="https://github.com/user-attachments/assets/be9b1183-5740-4f7e-82e1-b134d8bce01e" />
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/435c0a71-3a7f-44e1-954e-d99053a97f49" />
 
+<img width="1918" height="1023" alt="image" src="https://github.com/user-attachments/assets/be9b1183-5740-4f7e-82e1-b134d8bce01e" />
 
 <img width="648" height="871" alt="image" src="https://github.com/user-attachments/assets/050a129f-98b5-415d-a9eb-2b107bdaf5d4" />
 
-Developed by Varad Ambejogaiar Software Developer | Desktop & Application Architecture
+Developed by Varad Ambejogaikar Software Developer | Desktop & Application Architecture
